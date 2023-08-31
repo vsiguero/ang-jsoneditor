@@ -1,6 +1,6 @@
 {
   "name": "ang-jsoneditor",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "serve:demo": "cd projects/demo && ng serve",
     "build:lib": "ng build ang-jsoneditor",
