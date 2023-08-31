@@ -1,6 +1,6 @@
 {
   "name": "@vsiguero/ang-jsoneditor",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "scripts": {
     "serve:demo": "cd projects/demo && ng serve",
     "build:lib": "ng build ang-jsoneditor",
@@ -17,10 +17,10 @@
     "@angular/platform-browser": "^14.2.8",
     "@angular/platform-browser-dynamic": "^14.2.8",
     "@angular/router": "^14.2.8",
+    "jsoneditor": "^9.1.4",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.11.4",
-    "jsoneditor": "^9.1.4"
+    "zone.js": "~0.11.4"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^14.2.7",
