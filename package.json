@@ -1,5 +1,5 @@
 {
-  "name": "ang-jsoneditor",
+  "name": "@vsiguero/ang-jsoneditor",
   "version": "1.0.0",
   "scripts": {
     "serve:demo": "cd projects/demo && ng serve",
